@@ -1,0 +1,96 @@
+{
+    "profiles":[
+        {
+            "basics":{
+                "name":"Xi jinsping",
+                "email":"namailnikenduku@gmail.com",
+                "mobile":"+91 9963388680"
+             },
+            "education":[
+                {
+                    "degree":"I.C.S.E",
+                    "percentage":"23",
+                    "institute":"chinesechool"
+                },
+                {
+                    "degree":"Intermidiate-(MPC)",
+                    "percentage":"57",
+                    "institute":"chinese"
+                },
+                {
+                    "degree":"BA-(ARTS)",
+                    "percentage":"77",
+                    "institute":"chineseInstitute"
+                }
+         ],
+         "skills":[
+             {
+                 "type":"programming languages",
+                 "values":["C","C++","java","python","Ruby"]
+             },
+            {
+                "type":"web technologies",
+                "values":["HTML","css","javascript"]
+            },
+            {
+                
+                "type":"operating systems",
+                "values":["windows","linux","mac"]
+                
+            },
+            {
+                "type":"frameworks and libraries",
+                "values":["reactjs"]
+            }
+        ]
+     },
+        {
+            "basics":{
+                "name":"joda",
+                "email":"manasi@gmail.com",
+                "mobile":"+91 9963388680"
+             },
+            "education":[
+                {
+                    "degree":"I.C.S.E",
+                    "percentage":"23",
+                    "institute":"ashokdied public school"
+                },
+                {
+                    "degree":"Intermidiate-(MPC)",
+                    "percentage":"57",
+                    "institute":"ispyyarkokyanaam college"
+                },
+                {
+                    "degree":"BA-(ARTS)",
+                    "percentage":"77",
+                    "institute":"adhibhanu institute"
+                }
+         ],
+         "skills":[
+            {
+                "type":"programming languages",
+                "values":["C","C++","java","python","Ruby"]
+            },
+           {
+               "type":"web technologies",
+               "values":["HTML","css","javascript"]
+           },
+           {
+               
+               "type":"operating systems",
+               "values":["windows","linux","mac"]
+               
+           },
+           {
+               "type":"frameworks and libraries",
+               "values":["reactjs"]
+           }
+        ]
+        }
+    ]
+}
+
+
+        
+    
